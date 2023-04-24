@@ -22,7 +22,7 @@ To get started with the program, clone this repository and install the required 
 git clone https://github.com/puneeth-gv/A-Multi-Lingual-Chatbot-for-Language-Translation-and-Communication.git
 cd A-Multi-Lingual-Chatbot-for-Language-Translation-and-Communication
 pip install -r requirements.txt
-python A Multi-Lingual Chatbot for Language Translation and Communication.py
+python 'A Multi-Lingual Chatbot for Language Translation and Communication.py'
 
 ```
 ## Contributing
