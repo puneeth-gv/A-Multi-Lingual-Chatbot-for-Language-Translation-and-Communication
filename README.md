@@ -23,7 +23,6 @@ git clone https://github.com/puneeth-gv/A-Multi-Lingual-Chatbot-for-Language-Tra
 cd A-Multi-Lingual-Chatbot-for-Language-Translation-and-Communication
 pip install -r requirements.txt
 python 'A Multi-Lingual Chatbot for Language Translation and Communication.py'
-
 ```
 ## Contributing
 This project is open for contributions. If you find a bug or want to add a feature, feel free to create a pull request or open an issue.
