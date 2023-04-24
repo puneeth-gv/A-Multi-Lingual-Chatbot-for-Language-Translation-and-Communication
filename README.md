@@ -25,3 +25,8 @@ pip install -r requirements.txt
 python main.py
 
 ```
+## Contributing
+This project is open for contributions. If you find a bug or want to add a feature, feel free to create a pull request or open an issue.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
