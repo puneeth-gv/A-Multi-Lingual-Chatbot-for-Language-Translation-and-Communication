@@ -1,4 +1,4 @@
-# A-Multi-Lingual-Chatbot-for-Language-Translation-and-Communication
+# A Multi Lingual Chatbot for Language Translation and Communication
 This project is a multi-language voice assistant that can perform various functions such as web searches and language translation. The program uses Python and several libraries to enable speech recognition, text-to-speech conversion, and audio playback.
 
 ## Libraries Used
