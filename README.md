@@ -16,7 +16,7 @@ The program uses the following Python libraries:
 The voice assistant can understand speech in different languages and respond with spoken words in the same language. The program detects specific words or phrases to identify the user's language preference and respond accordingly. It can also translate the language into Braj Bhasha, a dialect of Hindi, by replacing certain words in the translated text.
 
 ## Getting Started
-To get started with the program, clone this repository and install the required libraries using pip. Then, run the main.py file to start the voice assistant.
+To get started with the program, clone this repository and install the required libraries using pip. Then, run the 'A Multi-Lingual Chatbot for Language Translation and Communication.py' file to start the voice assistant.
 
 ```
 git clone https://github.com/puneeth-gv/A-Multi-Lingual-Chatbot-for-Language-Translation-and-Communication.git
